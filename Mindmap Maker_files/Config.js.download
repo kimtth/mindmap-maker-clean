@@ -1,0 +1,2 @@
+mindmaps.Config=function(){return{MindMapAddress:"https://app.mindmapmaker.org/s3/process.php",MindMapListAddress:"https://app.mindmapmaker.org/s3/processFilenames.php",BaseUrl:"https://app.mindmapmaker.org/",activateDirectUrlInput:true,activateUrlsFromServerWithoutSearch:false,activateUrlsFromServerWithSearch:false,allowMultipleUrls:true,urlServerAddress:"http://localhost/s3"}}();CKEDITOR.editorConfig=function(e){}
+
